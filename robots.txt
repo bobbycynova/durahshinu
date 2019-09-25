@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ikairohva.jacemakes.com/sitemap.xml
